@@ -23,15 +23,15 @@ menu:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  after:
-    - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
-      weight: 10
+  # after:
+  #   - name: "Github"
+  #     url: "https://github.com/64bitpandas/amethyst"
+  #     weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Chris C.H. Lin
+  title: 🗒️ Chris' Blog
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -70,7 +70,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/chris4540/chris4540.github.io
 
   # Search (WIP)
   search:
@@ -82,13 +82,15 @@ params:
   description:
     Notes, hosted by bencuan
 
-  
+
   # Footer links
   links:
-    - link_name: Website
-      link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+    - link_name: Github
+      link: https://github.com/chris4540
+    - link_name: LinkedIn
+      link: https://www.linkedin.com/in/chris-lin-ch/
+    # - link_name: Blog
+    #   link: https://blog.bencuan.me
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.

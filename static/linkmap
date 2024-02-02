@@ -1,9 +1,9 @@
-/index.html /
-/example//index.{html} /example//
-/example/collapsed/3rd-level/4th-level/index.{html} /example/collapsed/3rd-level/4th-level/
 /example/collapsed/3rd-level//index.{html} /example/collapsed/3rd-level//
-/example/collapsed//index.{html} /example/collapsed//
-/example/table-of-contents//index.{html} /example/table-of-contents//
-/example/table-of-contents/with-toc/index.{html} /example/table-of-contents/with-toc/
 /example/hidden/index.{html} /example/hidden/
+/example/table-of-contents/with-toc/index.{html} /example/table-of-contents/with-toc/
+/index.html /
+/example/collapsed/3rd-level/4th-level/index.{html} /example/collapsed/3rd-level/4th-level/
+/example/table-of-contents//index.{html} /example/table-of-contents//
 /example/table-of-contents/without-toc/index.{html} /example/table-of-contents/without-toc/
+/example//index.{html} /example//
+/example/collapsed//index.{html} /example/collapsed//
